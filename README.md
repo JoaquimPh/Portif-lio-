@@ -13,7 +13,7 @@ Este é o site pessoal de portfólio de Joaquim, focado em trabalhos com Intelig
 - Ativar o GitHub Pages nas configurações do repositório
 - Escolher a branch `main`
 
-Publicado automaticamente em: https://seunome.github.io/portfolio-joaquim/
+Publicado automaticamente em: 
 
 ---
 Criado com carinho!
